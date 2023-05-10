@@ -3,18 +3,12 @@ from isOnline import isLive
 import moveclick as mc
 import datetime
 
-streamersMap = ['roshtein', 'xposed', 'yassuo',
-                'VonDice', 'DeuceAce', 'FrankDimes']
+streamersMap = ['roshtein', 'ninja', 'xqc',
+                'GMHikaru', 'shroud']
 connectedStreamers = []
 dcStreamers = []
 now = datetime.datetime.now()
-file = open("data.txt", "a")
-for streamer in streamersMap:
-    if isLive(streamer):
-        connectedStreamers.append(streamer)
-    else:
-        dcStreamers.append(streamer)
-# cambiar las png de imagenesC
+
 
 if(pt.locateOnScreen('imagenesC/chromesessionbar.png') is None):
     mc.locateAndClick('imagenesC/chromeLogo.png')
@@ -43,8 +37,18 @@ def checkLiveStreaming():
     closeDcTabs()
 
 
-checkLiveStreaming()
-file.write('Time: ' + now.strftime('%H:%M:%S\n'))
-file.write('Los streamers conectados son: ' + str(connectedStreamers)+"\n")
-file.write('Los streamers desconectados son: ' + str(dcStreamers)+"\n\n")
-mc.minimizar()
+def runApp():
+    file = open("data.txt", "a")
+    for streamer in streamersMap:
+        if isLive(streamer):
+            connectedStreamers.append(streamer)
+        else:
+            dcStreamers.append(streamer)
+    if(pt.locateOnScreen('imagenesC/chromesessionbar.png') is None):
+        mc.locateAndClick('imagenesC/chromeLogo.png')
+    checkLiveStreaming()
+    file.write('Time: ' + now.strftime('%H:%M:%S\n'))
+    file.write('Los streamers conectados son: ' + str(connectedStreamers)+"\n")
+    file.write('Los streamers desconectados son: ' + str(dcStreamers)+"\n\n")
+    mc.minimizar()
+runApp()

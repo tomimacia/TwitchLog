@@ -1,8 +1,9 @@
 import requests
+from decouple import config
 
-# poner tus datos de la api de twitch https://dev.twitch.tv/console/apps
-client_id = 'uhi95gfyhdkgy8jxsabjw0vc10zpzj'
-client_secret = '3g64x8o0dbyvwvzxilqdn6fnfas6wk'
+# env variables for twitch API
+client_id = config("TWITCH_CLIENT_ID_KEY")
+client_secret = config("TWITCH_CLIENT_SECRET_KEY")
 streamer_name = 'LCK'
 
 body = {
@@ -11,10 +12,6 @@ body = {
     "grant_type": 'client_credentials'
 }
 r = requests.post('https://id.twitch.tv/oauth2/token', body).json()
-
-# data output
-
-
 
 headers = {
     'Client-ID': client_id,
@@ -28,9 +25,5 @@ def isLive(streamer_name):
     stream_data = stream.json()
     if len(stream_data['data']) == 1:
         return True
-        #  print(streamer_name + ' is live: ' +
-        #   stream_data['data'][0]['title'] + ' playing ' + stream_data['data'][0]['game_name'])
     else:
         return False
-        # print(streamer_name + ' is not live')
-

@@ -1,132 +1,32 @@
 Time: 11:24:01
 Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc', 'GMHikaru', 'shroud']
 
 Time: 11:54:02
 Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc', 'GMHikaru', 'shroud']
 
 Time: 12:24:02
 Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc', 'GMHikaru', 'shroud']
 
 Time: 12:54:02
 Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc', 'GMHikaru', 'shroud']
 
 Time: 13:24:02
 Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc', 'GMHikaru', 'shroud']
 
 Time: 13:54:02
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers conectados son: ['GMHikaru']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc' 'shroud']
 
 Time: 14:24:02
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers conectados son: ['GMHikaru']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc' 'shroud']
 
 Time: 14:54:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 15:24:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 15:54:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 16:24:02
-Los streamers conectados son: ['yassuo', 'DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'VonDice', 'FrankDimes']
-
-Time: 16:54:02
-Los streamers conectados son: ['yassuo', 'DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'VonDice', 'FrankDimes']
-
-Time: 17:24:02
-Los streamers conectados son: ['yassuo', 'DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'VonDice', 'FrankDimes']
-
-Time: 17:54:02
-Los streamers conectados son: ['roshtein', 'yassuo', 'DeuceAce']
-Los streamers desconectados son: ['xposed', 'VonDice', 'FrankDimes']
-
-Time: 18:24:02
-Los streamers conectados son: ['roshtein', 'yassuo', 'DeuceAce']
-Los streamers desconectados son: ['xposed', 'VonDice', 'FrankDimes']
-
-Time: 18:54:02
-Los streamers conectados son: ['roshtein', 'yassuo', 'DeuceAce']
-Los streamers desconectados son: ['xposed', 'VonDice', 'FrankDimes']
-
-Time: 19:24:03
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 19:54:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 20:24:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 20:54:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 21:24:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 21:54:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 22:24:02
-Los streamers conectados son: ['DeuceAce']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'FrankDimes']
-
-Time: 22:34:03
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 22:34:48
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 22:49:19
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 22:50:42
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 22:54:02
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 22:53:50
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 23:15:20
-Los streamers conectados son: []
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 23:21:01
-Los streamers conectados son: ['boxbox', 'grafo']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 23:22:49
-Los streamers conectados son: ['boxbox', 'grafo']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
-
-Time: 23:51:02
-Los streamers conectados son: ['boxbox', 'grafo']
-Los streamers desconectados son: ['roshtein', 'xposed', 'yassuo', 'VonDice', 'DeuceAce', 'FrankDimes']
+Los streamers conectados son: ['GMHikaru']
+Los streamers desconectados son: ['roshtein', 'ninja', 'xqc' 'shroud']
 
